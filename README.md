@@ -53,7 +53,6 @@
       <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-05122A?style=flat&logo=data&logoColor=white">
       <img alt="Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-05122A?style=flat&logo=mysql&logoColor=white">
       <img alt="openSUSE Tumbleweed" src="https://img.shields.io/badge/openSUSE%20Tumbleweed-05122A?style=flat&logo=opensuse&logoColor=white">
-    
     </kbd>
   </p>
 	<p>
