@@ -43,6 +43,7 @@
       <img alt="Subversion" src="https://img.shields.io/badge/Subversion-05122A?style=flat&logo=subversion&logoColor=white">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma">
       <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visualstudiocode">
+	<img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-flat?style=flat&logo=openai&logoColor=white&labelColor=%23061227&color=%23061227">
     </kbd>
   </p>
 	<p>
@@ -55,19 +56,9 @@
       <img alt="openSUSE Tumbleweed" src="https://img.shields.io/badge/openSUSE%20Tumbleweed-05122A?style=flat&logo=opensuse&logoColor=white">
     </kbd>
   </p>
-	<p>
-		<kbd>
-			<kbd>Tools</kbd>
-			<br>
-			<br>
-			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
-			<img alt="Github Projects" src="https://img.shields.io/badge/Github%20Projects-05122A?style=flat&logo=Github">
-			<img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-flat?style=flat&logo=openai&logoColor=white&labelColor=%23061227&color=%23061227">
-		</kbd>
-	</p>
 		<p>
 		<kbd>
-			<kbd>Software</kbd>
+			<kbd>Aplicaciones</kbd>
 			<br>
 			<br>
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=vscodium">
@@ -80,7 +71,7 @@
 	</p>
 		<p>
 		<kbd>
-			<kbd>Systems</kbd>
+			<kbd>Sistemas</kbd>
 			<br>
 			<br>
 			<img alt="GNU/Linux Server" src="https://img.shields.io/badge/GNU%2FLinux%20Server-flat?style=flat&logo=linux&logoColor=white&labelColor=%23061227&color=%23061227">
