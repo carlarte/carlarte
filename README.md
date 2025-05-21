@@ -87,7 +87,7 @@
 
 <!-- Footer -->
 
-![Thanks for visiting!](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
+![Grácias por tu visita!](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Star repos!](https://img.shields.io/badge/⭐%20Star%20repos%20you%20like-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/carlarte?style=flat&logo=github&color=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=carlarte&style=flat&color=05122A)
