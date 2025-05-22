@@ -2,7 +2,7 @@
 
 <!-- Header Links -->
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://carlarte.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4B2775?style=flat&logo=appveyor&logoColor=white)](https://carlarte.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlacayerohernandez/)
 
 <!-- Short Bio -->
