@@ -49,4 +49,25 @@
     <img alt="Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-B4DBF2?style=flat&logo=mysql&logoColor=black">
   </p>
 
-  <
+  <p style="color: #8E7CC3;">
+    <kbd>Aplicaciones</kbd><br><br>
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-B4DBF2?style=flat&logo=Notion&logoColor=black">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-B4DBF2?style=flat&logo=Canva&logoColor=black">
+    <img alt="Miro" src="https://img.shields.io/badge/Miro-B4DBF2?style=flat&logo=miro&logoColor=black">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-B4DBF2?style=flat&logo=figma&logoColor=black">
+  </p>
+
+  <p style="color: #8E7CC3;">
+    <kbd>Sistemas</kbd><br><br>
+    <img alt="openSUSE Tumbleweed" src="https://img.shields.io/badge/openSUSE%20Tumbleweed-B4DBF2?style=flat&logo=opensuse&logoColor=black">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-B4DBF2?style=flat&logo=docker&logoColor=black">
+    <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-B4DBF2?style=flat&logo=virtualbox&logoColor=black">
+    <img alt="Apache" src="https://img.shields.io/badge/Apache-B4DBF2?style=flat&logo=apache&logoColor=black">
+  </p>
+</div>
+
+<!-- Footer -->
+![Gracias por tu visita!](https://img.shields.io/badge/Gracias%20por%20tu%20visita!-4B2775)
+![Star repos!](https://img.shields.io/badge/⭐%20Deja%20unas%20estrellas-4B2775)
+![GitHub followers](https://img.shields.io/github/followers/carlarte?style=flat&logo=github&color=4B2775)
+![Profile Views](https://komarev.com/ghpvc/?username=carlarte&style=flat&color=4B2775)
