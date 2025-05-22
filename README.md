@@ -19,7 +19,7 @@
 
 <div>
 	<p style="display: inline-block;">
-	<pstyle="color: #8E7CC3;">
+	<p style="color: #8E7CC3;">
     <kbd>
       <kbd>Lenguajes de Programación</kbd><br><br>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-B4DBF2?style=flat&logo=javascript&logoColor=black">
@@ -67,8 +67,8 @@
 			<img alt="Figma" src="https://img.shields.io/badge/Figma-B4DBF2?style=flat&logo=figma&logoColor=black">
 		</kbd>
 	</p>
-	</p style="color: #8E7CC3;">
-		<p>
+	</p>
+		<p style="color: #8E7CC3;">
 		<kbd>
 			<kbd>Sistemas</kbd>
 			<br>
