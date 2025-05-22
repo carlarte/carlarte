@@ -89,7 +89,7 @@
 
 <!-- Footer -->
 
-![Grácias por tu visita!](https://img.shields.io/badge/Thanks%20for%20visiting!-AE9FF5)
-![Star repos!](https://img.shields.io/badge/⭐%20Star%20repos%20you%20like-AE9FF5)
-![GitHub followers](https://img.shields.io/github/followers/carlarte?style=flat&logo=github&color=AE9FF5)
-![Profile Views](https://komarev.com/ghpvc/?username=carlarte&style=flat&color=AE9FF5)
+![Grácias por tu visita!](https://img.shields.io/badge/Thanks%20for%20visiting!-4B2775)
+![Star repos!](https://img.shields.io/badge/⭐%20Star%20repos%20you%20like-4B2775)
+![GitHub followers](https://img.shields.io/github/followers/carlarte?style=flat&logo=github&color=4B2775)
+![Profile Views](https://komarev.com/ghpvc/?username=carlarte&style=flat&color=4B2775)
