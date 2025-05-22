@@ -1,4 +1,4 @@
-<h1 style="color: #B87DAB;">Hola 👋, Soy Carla Cayero.</h1>
+<font color="#B87DAB"><h1>Hola 👋, Soy Carla Cayero.</h1></font>
 
 <!-- Header Links -->
 
