@@ -7,10 +7,10 @@
 
 <!-- Short Bio -->
 <p>
-  ¡Bienvenido/a a mi perfil! <br>
-  Soy una <b>desarrolladora apasionada por lo artístico</b> y actualmente me encuentro enfocada en <b>aprender sobre UX/UI</b><br>
-  Me encanta aprender y compartir conocimientos mientras construyo proyectos útiles y creativos.
+  ¡Bienvenido/a a mi perfil! Soy <b>Carla Cayero</b>, una <b>desarrolladora con una profunda pasión por lo artístico</b> y el diseño digital. Actualmente, me encuentro enfocada en <b>explorar el mundo del UX/UI</b> para crear experiencias únicas y atractivas. <br><br>
+  Mi objetivo es construir soluciones creativas que no solo resuelvan problemas, sino que también conecten emocionalmente con las personas. ¡Me encanta aprender, compartir conocimientos y colaborar en proyectos innovadores!
 </p>
+
 
 <!-- Tech Stack -->
 <h2>Tech Stack</h2>
@@ -47,15 +47,15 @@
     </kbd>
   </p>
 	<p>
-    <kbd>
-      <kbd>Bases de Datos</kbd><br><br>
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white">
-      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=mariadb&logoColor=white">
-      <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-05122A?style=flat&logo=data&logoColor=white">
-      <img alt="Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-05122A?style=flat&logo=mysql&logoColor=white">
-    </kbd>
-  </p>
-		<p>
+	    <kbd>
+	      <kbd>Bases de Datos</kbd><br><br>
+	      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white">
+	      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=mariadb&logoColor=white">
+	      <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-05122A?style=flat&logo=data&logoColor=white">
+	      <img alt="Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-05122A?style=flat&logo=mysql&logoColor=white">
+	    </kbd>
+  	</p>
+	<p>
 		<kbd>
 			<kbd>Aplicaciones</kbd>
 			<br>
