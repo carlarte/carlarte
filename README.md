@@ -2,13 +2,8 @@
 
 <!-- Header Links -->
 
-<a href="https://carlarte.github.io/portfolio/" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-4B2775?style=flat&logo=appveyor&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/carlacayerohernandez/" target="_blank">
-  <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4B2775?style=flat&logo=appveyor&logoColor=white)](https://carlarte.github.io/portfolio/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlacayerohernandez/)
 
 <!-- Short Bio -->
 <p>
