@@ -32,28 +32,28 @@
 	<p>
     <kbd>
       <kbd>Frameworks y Librerías</kbd><br><br>
-      <img alt="Django" src="https://img.shields.io/badge/Django-61D4E8?style=flat&logo=django&logoColor=black">
-      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-61D4E8?style=flat&logo=laravel&logoColor=black">
-      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-61D4E8?style=flat&logo=vue.js&logoColor=black">
+      <img alt="Django" src="https://img.shields.io/badge/Django-B4DBF2?style=flat&logo=django&logoColor=black">
+      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-B4DBF2?style=flat&logo=laravel&logoColor=black">
+      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-B4DBF2?style=flat&logo=vue.js&logoColor=black">
     </kbd>
   </p>
    <p>
     <kbd>
       <kbd>Herramientas y Software</kbd><br><br>
-      <img alt="Git" src="https://img.shields.io/badge/Git-61D4E8?style=flat&logo=git&logoColor=black">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-61D4E8?style=flat&logo=github&logoColor=black">
-      <img alt="Subversion" src="https://img.shields.io/badge/Subversion-61D4E8?style=flat&logo=subversion&logoColor=black">
-      <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-61D4E8?style=flat&logo=visualstudiocode&logoColor=black">
-      <img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-61D4E8?style=flat&logo=openai&logoColor=black">
+      <img alt="Git" src="https://img.shields.io/badge/Git-B4DBF2?style=flat&logo=git&logoColor=black">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-B4DBF2?style=flat&logo=github&logoColor=black">
+      <img alt="Subversion" src="https://img.shields.io/badge/Subversion-B4DBF2?style=flat&logo=subversion&logoColor=black">
+      <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-B4DBF2?style=flat&logo=visualstudiocode&logoColor=black">
+      <img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-B4DBF2?style=flat&logo=openai&logoColor=black">
     </kbd>
   </p>
 	<p>
 	    <kbd>
 	      <kbd>Bases de Datos</kbd><br><br>
-	      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-61D4E8?style=flat&logo=mysql&logoColor=black">
-	      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-61D4E8?style=flat&logo=mariadb&logoColor=black">
-	      <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-61D4E8?style=flat&logo=data&logoColor=black">
-	      <img alt="Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-61D4E8?style=flat&logo=mysql&logoColor=black">
+	      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-B4DBF2?style=flat&logo=mysql&logoColor=black">
+	      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-B4DBF2?style=flat&logo=mariadb&logoColor=black">
+	      <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-B4DBF2?style=flat&logo=data&logoColor=black">
+	      <img alt="Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-B4DBF2?style=flat&logo=mysql&logoColor=black">
 	    </kbd>
   	</p>
 	<p>
@@ -61,11 +61,11 @@
 			<kbd>Aplicaciones</kbd>
 			<br>
 			<br>
-			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-61D4E8?style=flat&logo=vscodium&logoColor=black">
-			<img alt="Notion" src="https://img.shields.io/badge/Notion-61D4E8?style=flat&logo=Notion&logoColor=black">
-			<img alt="Canva" src="https://img.shields.io/badge/Canva-61D4E8?style=flat&logo=Canva&logoColor=black">
-			<img alt="Miro" src="https://img.shields.io/badge/Miro-61D4E8?style=flat&logo=miro&logoColor=black">
-			<img alt="Figma" src="https://img.shields.io/badge/Figma-61D4E8?style=flat&logo=figma&logoColor=black">
+			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-B4DBF2?style=flat&logo=vscodium&logoColor=black">
+			<img alt="Notion" src="https://img.shields.io/badge/Notion-B4DBF2?style=flat&logo=Notion&logoColor=black">
+			<img alt="Canva" src="https://img.shields.io/badge/Canva-B4DBF2?style=flat&logo=Canva&logoColor=black">
+			<img alt="Miro" src="https://img.shields.io/badge/Miro-B4DBF2?style=flat&logo=miro&logoColor=black">
+			<img alt="Figma" src="https://img.shields.io/badge/Figma-B4DBF2?style=flat&logo=figma&logoColor=black">
 		</kbd>
 	</p>
 	</p>
@@ -74,10 +74,10 @@
 			<kbd>Sistemas</kbd>
 			<br>
 			<br>
-			<img alt="openSUSE Tumbleweed" src="https://img.shields.io/badge/openSUSE%20Tumbleweed-61D4E8?style=flat&logo=opensuse&logoColor=black">
-			<img alt="Docker" src="https://img.shields.io/badge/Docker-61D4E8?style=flat&logo=docker&logoColor=black">
-			<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-61D4E8?style=flat&logo=virtualbox&logoColor=black">
-			<img alt="Apache" src="https://img.shields.io/badge/Apache-61D4E8?style=flat&logo=apache&logoColor=black">
+			<img alt="openSUSE Tumbleweed" src="https://img.shields.io/badge/openSUSE%20Tumbleweed-B4DBF2?style=flat&logo=opensuse&logoColor=black">
+			<img alt="Docker" src="https://img.shields.io/badge/Docker-B4DBF2?style=flat&logo=docker&logoColor=black">
+			<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-B4DBF2?style=flat&logo=virtualbox&logoColor=black">
+			<img alt="Apache" src="https://img.shields.io/badge/Apache-B4DBF2?style=flat&logo=apache&logoColor=black">
 		</kbd>
 	</p>
     </p>
