@@ -61,7 +61,6 @@
 			<kbd>Aplicaciones</kbd>
 			<br>
 			<br>
-			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-B4DBF2?style=flat&logo=vscodium&logoColor=black">
 			<img alt="Notion" src="https://img.shields.io/badge/Notion-B4DBF2?style=flat&logo=Notion&logoColor=black">
 			<img alt="Canva" src="https://img.shields.io/badge/Canva-B4DBF2?style=flat&logo=Canva&logoColor=black">
 			<img alt="Miro" src="https://img.shields.io/badge/Miro-B4DBF2?style=flat&logo=miro&logoColor=black">
