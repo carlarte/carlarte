@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlacayerohernandez/)
 
 <!-- Short Bio -->
-<p style="font-size: 1.2em; color: #6B5B95;">
+<p style="font-size: 11px; color: #6B5B95;">
  	¡Bienvenido/a a mi perfil! <br>
  	Soy una <b>desarrolladora con una profunda pasión por lo artístico</b> y el diseño digital.<br> 
 	Actualmente, me encuentro enfocada en <b>explorar el mundo del UX/UI</b> para crear experiencias únicas y atractivas.<br><br>
