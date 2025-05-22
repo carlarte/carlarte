@@ -1,4 +1,4 @@
-<h1>Hola 👋, Soy Carla Cayero.</h1>
+<h1 style="color: #B87DAB;">Hola 👋, Soy Carla Cayero.</h1>
 
 <!-- Header Links -->
 
@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlacayerohernandez/)
 
 <!-- Short Bio -->
-<p>
+<p style="font-size: 1.2em; color: #6B5B95;">
  	¡Bienvenido/a a mi perfil! <br>
  	Soy una <b>desarrolladora con una profunda pasión por lo artístico</b> y el diseño digital.<br> 
 	Actualmente, me encuentro enfocada en <b>explorar el mundo del UX/UI</b> para crear experiencias únicas y atractivas.<br><br>
@@ -15,11 +15,11 @@
 
 
 <!-- Tech Stack -->
-<h2>Tech Stack</h2>
+<h2 style="color: #B87DAB;">Tech Stack</h2>
 
 <div>
 	<p style="display: inline-block;">
-	<p>
+	<pstyle="color: #8E7CC3;">
     <kbd>
       <kbd>Lenguajes de Programación</kbd><br><br>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-B4DBF2?style=flat&logo=javascript&logoColor=black">
@@ -29,7 +29,7 @@
       <img alt="CSS3" src="https://img.shields.io/badge/CSS3-B4DBF2?style=flat&logo=css3&logoColor=black">
     </kbd>
   </p>
-	<p>
+	<p style="color: #8E7CC3;">
     <kbd>
       <kbd>Frameworks y Librerías</kbd><br><br>
       <img alt="Django" src="https://img.shields.io/badge/Django-B4DBF2?style=flat&logo=django&logoColor=black">
@@ -37,7 +37,7 @@
       <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-B4DBF2?style=flat&logo=vue.js&logoColor=black">
     </kbd>
   </p>
-   <p>
+   <p style="color: #8E7CC3;">
     <kbd>
       <kbd>Herramientas y Software</kbd><br><br>
       <img alt="Git" src="https://img.shields.io/badge/Git-B4DBF2?style=flat&logo=git&logoColor=black">
@@ -47,7 +47,7 @@
       <img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-B4DBF2?style=flat&logo=openai&logoColor=black">
     </kbd>
   </p>
-	<p>
+	<p style="color: #8E7CC3;">
 	    <kbd>
 	      <kbd>Bases de Datos</kbd><br><br>
 	      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-B4DBF2?style=flat&logo=mysql&logoColor=black">
@@ -56,7 +56,7 @@
 	      <img alt="Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-B4DBF2?style=flat&logo=mysql&logoColor=black">
 	    </kbd>
   	</p>
-	<p>
+	<p style="color: #8E7CC3;">
 		<kbd>
 			<kbd>Aplicaciones</kbd>
 			<br>
@@ -67,7 +67,7 @@
 			<img alt="Figma" src="https://img.shields.io/badge/Figma-B4DBF2?style=flat&logo=figma&logoColor=black">
 		</kbd>
 	</p>
-	</p>
+	</p style="color: #8E7CC3;">
 		<p>
 		<kbd>
 			<kbd>Sistemas</kbd>
