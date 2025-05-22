@@ -53,7 +53,6 @@
       <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=mariadb&logoColor=white">
       <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-05122A?style=flat&logo=data&logoColor=white">
       <img alt="Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-05122A?style=flat&logo=mysql&logoColor=white">
-      <img alt="openSUSE Tumbleweed" src="https://img.shields.io/badge/openSUSE%20Tumbleweed-05122A?style=flat&logo=opensuse&logoColor=white">
     </kbd>
   </p>
 		<p>
@@ -74,7 +73,7 @@
 			<kbd>Sistemas</kbd>
 			<br>
 			<br>
-			<img alt="GNU/Linux Server" src="https://img.shields.io/badge/GNU%2FLinux%20Server-flat?style=flat&logo=linux&logoColor=white&labelColor=%23061227&color=%23061227">
+			<img alt="openSUSE Tumbleweed" src="https://img.shields.io/badge/openSUSE%20Tumbleweed-05122A?style=flat&logo=opensuse&logoColor=white">
 			<img alt="Docker" src="https://img.shields.io/badge/Docker-flat?style=flat&logo=docker&logoColor=white&labelColor=%23061227&color=%23061227">
 			<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-flat?style=flat&logo=virtualbox&labelColor=%23061227&color=%23061227">
 			<img alt="Apache" src="https://img.shields.io/badge/Apache-flat?style=flat&logo=apache&labelColor=%23061227&color=%23061227">
