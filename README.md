@@ -22,11 +22,11 @@
 	<p>
     <kbd>
       <kbd>Lenguajes de Programación</kbd><br><br>
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-61D4E8?style=flat&logo=javascript&logoColor=black">
-      <img alt="Python" src="https://img.shields.io/badge/Python-61D4E8?style=flat&logo=python&logoColor=black">
-      <img alt="PHP" src="https://img.shields.io/badge/PHP-61D4E8?style=flat&logo=php&logoColor=black">
-      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-61D4E8?style=flat&logo=html5&logoColor=black">
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-61D4E8?style=flat&logo=css3&logoColor=black">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-B4DBF2?style=flat&logo=javascript&logoColor=black">
+      <img alt="Python" src="https://img.shields.io/badge/Python-B4DBF2?style=flat&logo=python&logoColor=black">
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-B4DBF2?style=flat&logo=php&logoColor=black">
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-B4DBF2?style=flat&logo=html5&logoColor=black">
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-B4DBF2?style=flat&logo=css3&logoColor=black">
     </kbd>
   </p>
 	<p>
