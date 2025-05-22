@@ -43,7 +43,6 @@
       <img alt="Git" src="https://img.shields.io/badge/Git-61D4E8?style=flat&logo=git&logoColor=black">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-61D4E8?style=flat&logo=github&logoColor=black">
       <img alt="Subversion" src="https://img.shields.io/badge/Subversion-61D4E8?style=flat&logo=subversion&logoColor=black">
-      <img alt="Figma" src="https://img.shields.io/badge/Figma-61D4E8?style=flat&logo=figma&logoColor=black">
       <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-61D4E8?style=flat&logo=visualstudiocode&logoColor=black">
       <img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-61D4E8?style=flat&logo=openai&logoColor=black">
     </kbd>
@@ -65,8 +64,8 @@
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-61D4E8?style=flat&logo=vscodium&logoColor=black">
 			<img alt="Notion" src="https://img.shields.io/badge/Notion-61D4E8?style=flat&logo=Notion&logoColor=black">
 			<img alt="Canva" src="https://img.shields.io/badge/Canva-61D4E8?style=flat&logo=Canva&logoColor=black">
-			<img alt="Miro" src="https://img.shields.io/badge/Miro-61D4E8?style=flat&logo=miro&logoColor=black&labelColor=%23061227&color=%23061227">
-			<img alt="Figma" src="https://img.shields.io/badge/Figma-61D4E8?style=flat&logo=figma&logoColor=black&labelColor=%23061227&color=%23061227">
+			<img alt="Miro" src="https://img.shields.io/badge/Miro-61D4E8?style=flat&logo=miro&logoColor=black">
+			<img alt="Figma" src="https://img.shields.io/badge/Figma-61D4E8?style=flat&logo=figma&logoColor=black">
 		</kbd>
 	</p>
 	</p>
@@ -76,9 +75,9 @@
 			<br>
 			<br>
 			<img alt="openSUSE Tumbleweed" src="https://img.shields.io/badge/openSUSE%20Tumbleweed-61D4E8?style=flat&logo=opensuse&logoColor=black">
-			<img alt="Docker" src="https://img.shields.io/badge/Docker-61D4E8?style=flat&logo=docker&logoColor=black&labelColor=%23061227&color=%23061227">
-			<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-61D4E8?style=flat&logo=virtualbox&logoColor=black&labelColor=%23061227&color=%23061227">
-			<img alt="Apache" src="https://img.shields.io/badge/Apache-61D4E8?style=flat&logo=apache&logoColor=black&labelColor=%23061227&color=%23061227">
+			<img alt="Docker" src="https://img.shields.io/badge/Docker-61D4E8?style=flat&logo=docker&logoColor=black">
+			<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-61D4E8?style=flat&logo=virtualbox&logoColor=black">
+			<img alt="Apache" src="https://img.shields.io/badge/Apache-61D4E8?style=flat&logo=apache&logoColor=black">
 		</kbd>
 	</p>
     </p>
