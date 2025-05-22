@@ -22,39 +22,39 @@
 	<p>
     <kbd>
       <kbd>Lenguajes de Programación</kbd><br><br>
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=white">
-      <img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white">
-      <img alt="PHP" src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=white">
-      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5&logoColor=white">
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=white">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD1DC?style=flat&logo=javascript&logoColor=white">
+      <img alt="Python" src="https://img.shields.io/badge/Python-B5A0D9?style=flat&logo=python&logoColor=white">
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-B5A0D9?style=flat&logo=php&logoColor=white">
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-A9C9F3?style=flat&logo=html5&logoColor=white">
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FFC0CB?style=flat&logo=css3&logoColor=white">
     </kbd>
   </p>
 	<p>
     <kbd>
       <kbd>Frameworks y Librerías</kbd><br><br>
-      <img alt="Django" src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django&logoColor=white">
-      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=white">
-      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vue.js&logoColor=white">
+      <img alt="Django" src="https://img.shields.io/badge/Django-B5A0D9?style=flat&logo=django&logoColor=white">
+      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-A9C9F3?style=flat&logo=laravel&logoColor=white">
+      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-FFD1DC?style=flat&logo=vue.js&logoColor=white">
     </kbd>
   </p>
    <p>
     <kbd>
       <kbd>Herramientas y Software</kbd><br><br>
-      <img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github">
-      <img alt="Subversion" src="https://img.shields.io/badge/Subversion-05122A?style=flat&logo=subversion&logoColor=white">
-      <img alt="Figma" src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma">
-      <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visualstudiocode">
-	<img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-flat?style=flat&logo=openai&logoColor=white&labelColor=%23061227&color=%23061227">
+      <img alt="Git" src="https://img.shields.io/badge/Git-B5A0D9?style=flat&logo=git">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-FFD1DC?style=flat&logo=github">
+      <img alt="Subversion" src="https://img.shields.io/badge/Subversion-FFC0CB?style=flat&logo=subversion&logoColor=white">
+      <img alt="Figma" src="https://img.shields.io/badge/Figma-FFD1DC?style=flat&logo=figma">
+      <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-A9C9F3?style=flat&logo=visualstudiocode">
+      <img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-flat?style=flat&logo=openai&logoColor=white&labelColor=%23061227&color=%23061227">
     </kbd>
   </p>
 	<p>
 	    <kbd>
 	      <kbd>Bases de Datos</kbd><br><br>
-	      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white">
-	      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=mariadb&logoColor=white">
-	      <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-05122A?style=flat&logo=data&logoColor=white">
-	      <img alt="Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-05122A?style=flat&logo=mysql&logoColor=white">
+	      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFD1DC?style=flat&logo=mysql&logoColor=white">
+	      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-FFC0CB?style=flat&logo=mariadb&logoColor=white">
+	      <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-B5A0D9?style=flat&logo=data&logoColor=white">
+	      <img alt="Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-A9C9F3?style=flat&logo=mysql&logoColor=white">
 	    </kbd>
   	</p>
 	<p>
@@ -62,9 +62,9 @@
 			<kbd>Aplicaciones</kbd>
 			<br>
 			<br>
-			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=vscodium">
-			<img alt="Notion" src="https://img.shields.io/badge/Notion-05122A?style=flat&logo=Notion">
-			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
+			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-B5A0D9?style=flat&logo=vscodium">
+			<img alt="Notion" src="https://img.shields.io/badge/Notion-FFD1DC?style=flat&logo=Notion">
+			<img alt="Canva" src="https://img.shields.io/badge/Canva-FFC0CB?style=flat&logo=Canva">
 			<img alt="Miro" src="https://img.shields.io/badge/Miro-flat?style=flat&logo=miro&logoColor=white&labelColor=%23061227&color=%23061227">
 			<img alt="Figma" src="https://img.shields.io/badge/Figma-flat?style=flat&logo=figma&labelColor=%23061227&color=%23061227">
 		</kbd>
@@ -75,7 +75,7 @@
 			<kbd>Sistemas</kbd>
 			<br>
 			<br>
-			<img alt="openSUSE Tumbleweed" src="https://img.shields.io/badge/openSUSE%20Tumbleweed-05122A?style=flat&logo=opensuse&logoColor=white">
+			<img alt="openSUSE Tumbleweed" src="https://img.shields.io/badge/openSUSE%20Tumbleweed-A9C9F3?style=flat&logo=opensuse&logoColor=white">
 			<img alt="Docker" src="https://img.shields.io/badge/Docker-flat?style=flat&logo=docker&logoColor=white&labelColor=%23061227&color=%23061227">
 			<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-flat?style=flat&logo=virtualbox&labelColor=%23061227&color=%23061227">
 			<img alt="Apache" src="https://img.shields.io/badge/Apache-flat?style=flat&logo=apache&labelColor=%23061227&color=%23061227">
@@ -83,6 +83,7 @@
 	</p>
     </p>
 </div>
+
 
 <h2></h2>
 
