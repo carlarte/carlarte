@@ -7,9 +7,9 @@
 
 <!-- Short Bio -->
 <p style="font-size: 11px; color: #6B5B95;">
- 	¡Bienvenido/a a mi perfil! <br>
- 	Soy desarrolladora y, además de mi pasión por la tecnología, tengo un amor profundo por el arte y el diseño digital. <br> 
-	Actualmente, estoy inmersa en el mundo del UX/UI, con el objetivo de crear experiencias únicas y que realmente cautiven a las personas.<br> 
+ 	¡Bienvenido/a a mi perfil! <br><br> 
+ 	Soy <b>desarrolladora Web</b> y, además de mi pasión por la tecnología, tengo un <b>amor profundo por el arte y el diseño digital</b>. <br> 
+	Actualmente, estoy <b>inmersa en el mundo del UX/UI</b>, con el objetivo de crear experiencias únicas y que realmente cautiven a las personas.<br> <br> 
 	Mi enfoque está en construir soluciones creativas que no solo resuelvan problemas, sino que también generen una conexión emocional. <br> 
 	¡Me apasiona aprender, compartir lo que sé y colaborar en proyectos que realmente marquen la diferencia!
 </p>
