@@ -45,7 +45,7 @@
       <img alt="Subversion" src="https://img.shields.io/badge/Subversion-61D4E8?style=flat&logo=subversion&logoColor=black">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-61D4E8?style=flat&logo=figma&logoColor=black">
       <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-61D4E8?style=flat&logo=visualstudiocode&logoColor=black">
-      <img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-61D4E8?style=flat&logo=openai&logoColor=black&labelColor=%23061227&color=%23061227">
+      <img alt="ChatGPT" src="https://img.shields.io/badge/OpenAI-61D4E8?style=flat&logo=openai&logoColor=black">
     </kbd>
   </p>
 	<p>
